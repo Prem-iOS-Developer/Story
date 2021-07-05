@@ -1,0 +1,9 @@
+1. Long song or podcast title overlapping into the queue button. - FIXED
+2. Scrolling up on lyrics still not working. - WORKING FINE
+3. Podcast artists showing up on the Music tab. They should not show under Music as they are not musicians. They can show on podcast page but not music page because they are not music. - FIXED
+4. Downloaded songs not playing when online on iOS. - FIXED
+5. App crashing when trying to play downloaded songs after unsubscribing.
+6. iOS app should go directly to downloads page when offline like Android does. - FIXED
+7. When coming back online after being offline, the retry is not refreshing the app. This makes the button pointless. Retry should get you reconnected once online. You have to kill the app first for it to start working again. - NOT FOUND
+8. Blinking cursor not showing in the search box on iOS. - FIXED
+9. Remove blue image on M
